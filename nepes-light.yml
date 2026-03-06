@@ -1,0 +1,24 @@
+# Nepes Light — lazygit theme
+# Copy to ~/.config/lazygit/config.yml under gui.theme
+
+gui:
+  theme:
+    activeBorderColor:
+      - "#23438E"
+      - bold
+    inactiveBorderColor:
+      - "#7A7A84"
+    optionsTextColor:
+      - "#23438E"
+    selectedLineBgColor:
+      - "#D8D7D7"
+    selectedRangeBgColor:
+      - "#D8D7D7"
+    cherryPickedCommitBgColor:
+      - "#236068"
+    cherryPickedCommitFgColor:
+      - "#2D7A82"
+    unstagedChangesColor:
+      - "#C4181F"
+    defaultFgColor:
+      - "#1C1C1E"
